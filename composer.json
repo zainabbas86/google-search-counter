@@ -1,0 +1,13 @@
+{
+    "name": "zain/google-search-counter",
+    "description": "This Project counts specific string in google search",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zain Abbas",
+            "email": "zainabbas86@hotmail.com"
+        }
+    ],
+    "require": {}
+}
